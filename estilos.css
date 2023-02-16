@@ -1,13 +1,15 @@
 a:link{
-    color:teal
+    color:teal;
+    text-decoration: none;
 }
 a:visited{
-    color:hotpink
+    color:hotpink;
+    text-decoration: none;
 }
 a:hover{
     text-decoration:underline;
     background: white;
 }
 a:active{
-    color:gold
+    color:gold;
 }
