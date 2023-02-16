@@ -2,10 +2,11 @@ a:link{
     color:teal
 }
 a:visited{
-    color:blueviolet
+    color:hotpink
 }
 a:hover{
-    transform:scale(1,5)
+    text-decoration:underline;
+    background: white;
 }
 a:active{
     color:gold
