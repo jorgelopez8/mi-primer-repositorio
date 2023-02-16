@@ -14,7 +14,3 @@ a:hover{
 a:active{
     color:navy;
 }
-h2 a:link{
-    color:teal;
-    text-decoration: none;
-}
