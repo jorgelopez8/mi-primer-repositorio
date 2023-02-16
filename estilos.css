@@ -4,13 +4,9 @@ a:link{
 a:visited{
     color:blueviolet
 }
-a:hover{}
+a:hover{
+    transform:scale(1,5)
+}
 a:active{
     color:gold
-}
-img:hover{
-    transform: scale(1,5)
-}
-p:active{
-    color:white
 }
