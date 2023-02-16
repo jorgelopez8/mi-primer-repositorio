@@ -1,4 +1,4 @@
-a:link{
+a:first-child :link{
     color:teal;
     text-decoration: none;
 }
@@ -13,4 +13,7 @@ a:hover{
 }
 a:active{
     color:navy;
+}
+a:last-child :link{
+    color:black
 }
