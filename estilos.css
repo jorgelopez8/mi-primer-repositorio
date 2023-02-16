@@ -1,0 +1,16 @@
+a:link{
+    color:teal
+}
+a:visited{
+    color:blueviolet
+}
+a:hover{}
+a:active{
+    color:gold
+}
+img:hover{
+    transform: scale(1,5)
+}
+p:active{
+    color:white
+}
