@@ -8,8 +8,8 @@ a:hover{
     color:crimson;
 }
 a:visited{
+    text-decoration:line-through;
     color:hotpink;
-    text-decoration:line-through red;
 }
 a:active{
     color:navy;
