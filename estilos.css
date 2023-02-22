@@ -2,15 +2,15 @@ a:link{
     color:teal;
     text-decoration:none;
 }
-a:visited{
-    color:hotpink;
-    text-decoration-line: line-through;
-    text-decoration-color: red;
-}
 a:hover{
     text-decoration:underline;
     background:lightblue;
     color:crimson;
+}
+a:visited{
+    color:hotpink;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
 }
 a:active{
     color:navy;
